@@ -1,0 +1,5 @@
+.idea
+.web
+*.pyc
+*.db
+instance
